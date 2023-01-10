@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://portfolioangular-8b34a.web.app")
 public class PersonaController {
     @Autowired
     ImpPersonaService Personaservice;
@@ -29,6 +29,8 @@ public class PersonaController {
         return new ResponseEntity(list, HttpStatus.OK);
     }
     /*
+
+    
     @PostMapping("/create")
     public ResponseEntity<?> create(@RequestBody dtoPersona dtopersona) {
         if(StringUtils.isBlank(dtopersona.getNombre()))
