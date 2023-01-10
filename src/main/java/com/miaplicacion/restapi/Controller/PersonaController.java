@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@CrossOrigin(origins = "https://portfolioangular-8b34a.web.app")
+@CrossOrigin(origins = "https://portfoliobackend-production-0439.up.railway.app")
 public class PersonaController {
     @Autowired
     ImpPersonaService Personaservice;
