@@ -5,7 +5,7 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-@CrossOrigin(origins = "https://portfolioangular-8b34a.firebaseapp.com/")
+@CrossOrigin(origins = "https://portfolioback-yo68.onrender.com/")
 
 @EnableWebMvc
 @Configuration
