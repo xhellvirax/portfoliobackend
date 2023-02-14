@@ -27,3 +27,4 @@
 /Applications/MAMP/htdocs/antonella/porfolioAngulaBackend/restapi/src/main/java/com/miaplicacion/restapi/Dto/dtoExperiencia.java
 /Applications/MAMP/htdocs/antonella/porfolioAngulaBackend/restapi/src/main/java/com/miaplicacion/restapi/Entity/Persona.java
 /Applications/MAMP/htdocs/antonella/porfolioAngulaBackend/restapi/src/main/java/com/miaplicacion/restapi/Controller/PersonaController.java
+/Applications/MAMP/htdocs/antonella/porfolioAngulaBackend/restapi/src/main/java/com/miaplicacion/restapi/WebConfig.java
